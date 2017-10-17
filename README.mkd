@@ -1,0 +1,11 @@
+# Pioneers database
+Here is the the database file for [the Pioneers project](https://github.com/aluriak/se-pioneers).
+
+
+## Use the database
+
+1. find & backup the `config/user-eng-db.cfg` file in your SpaceEngine install folder
+2. download the `user-eng-db.cfg` file in this repository, and place it in the `config/` folder, where was your own `config/user-eng-db.cfg` file.
+
+Note that you can also concatenate the two files in one if you want both your annotations
+and Pioneers project annotations.
